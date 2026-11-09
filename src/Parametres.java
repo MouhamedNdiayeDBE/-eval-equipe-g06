@@ -8,7 +8,7 @@ public final class Parametres {
         "A : Mouhamed Ndiaye ()",
         "B : Salif Camara ()",
         "C : Mamadou Ndiaye ()",
-        "D : Mouhamed Ndiaye ()"
+        "D : Mouhamed Niang ()"
     };
 
     public static final int TAUX_FRAIS = 10 + GROUPE % 6;                 // pour mille (10 = 1 %)
