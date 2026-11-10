@@ -36,6 +36,7 @@ Le sujet complet est distribué sur papier. Ce dépôt est **la copie de votre �
 | A — Comptes | `Compte.java`, `CompteStandard.java`, `ComptePremium.java`, `CompteMarchand.java` |
 | B — Plateforme | `Plateforme.java`, puis `Main.java` (intégration) |
 | C — Chaînes et USSD | `Ussd.java` (y compris `executer` pendant l'intégration) |
+| D _ Assistant pour A,B et C |
 | Tous | sa propre partie du bilan dans `EQUIPE.md` |
 
 **Jalon important :** A pousse une première version de `Compte.java` **avant + 20 min** (attributs, constructeur, accesseurs, méthodes abstraites). B en a besoin pour compiler `Plateforme`.
