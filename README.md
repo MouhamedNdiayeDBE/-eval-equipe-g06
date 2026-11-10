@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 61a0ee1bb5d207c2faef172f654f10736a11a784
 # Épreuve d'équipe IsepCash — POO Java (1 h 30, 3 personnes)
 
 ISEP Amadou Trawaré de Diamniadio · Département Informatique · Développement Back-End
@@ -79,7 +82,10 @@ java -cp bin Verification
 - **Aucun assistant d'IA** (Copilot, ChatGPT, Claude, Gemini…) : ne modifiez pas les réglages du dossier `.vscode`.
 - **Messages sans accents** dans les affichages imposés (`effectue`, `Numero`, `collectes`), pour éviter les problèmes d'encodage.
 - **Oral d'équipe après l'épreuve** : chacun explique sa partie **et celle d'un coéquipier**, puis fait une modification en direct.
+<<<<<<< HEAD
 =======
 # eval-equipe-g06
 evaluation Java Groupe Numero 6 sur les conceptes vus en classe
 >>>>>>> 9c8b100fbfe2ebe1c955468c614d8aae39ae068d
+=======
+>>>>>>> 61a0ee1bb5d207c2faef172f654f10736a11a784
