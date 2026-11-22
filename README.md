@@ -90,3 +90,4 @@ evaluation Java Groupe Numero 6 sur les conceptes vus en classe
 >>>>>>> 9c8b100fbfe2ebe1c955468c614d8aae39ae068d
 =======
 >>>>>>> 61a0ee1bb5d207c2faef172f654f10736a11a784
+terminé
